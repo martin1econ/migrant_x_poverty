@@ -5,7 +5,6 @@
 #### What type of data is appropriate to introduce?
 #### Can we create a model with data that can be updated?
 
-#### Python script in Rstudio exercise 
 #### See analysis_migrants_poverty.r for dataset with 
 #### historical migration data 
 
@@ -25,3 +24,6 @@ import matplotlib as plt
 # PyTorch
 # Scrapy
 # BeautifulSoup
+
+## upload datasets with research papers backing up the addition 
+
