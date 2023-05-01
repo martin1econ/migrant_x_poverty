@@ -198,3 +198,9 @@ summary(df_lm)
 df_lm <- lm(cases_filed ~ median_income_per_day + gini, data = df)
 summary(df_lm)
 
+######## Multi-variable analysis to forecast migration into US ########
+
+#### Gather some background research papers to guide which type of infromation
+#### may be appropriate to introduce into our model
+
+#### include google scholar citations
